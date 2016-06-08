@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#Set up the environment
+export HUBOT_SLACK_TOKEN=xoxb-47786541831-HHEQdXGa7afmRFF6wSYcXJpR
+
+# Start hubot in the background
+cd $HOME/hubot
+bin/hubot --adapter slack

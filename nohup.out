@@ -1,0 +1,8 @@
+[Fri Jun 03 2016 16:16:57 GMT-0400 (EDT)] INFO Connecting...
+[Fri Jun 03 2016 16:16:58 GMT-0400 (EDT)] INFO Logged in as hubot of Stuff, but not yet connected
+[Fri Jun 03 2016 16:16:58 GMT-0400 (EDT)] INFO Slack client now connected
+[Fri Jun 03 2016 16:16:58 GMT-0400 (EDT)] WARNING Loading scripts from hubot-scripts.json is deprecated and will be removed in 3.0 (https://github.com/github/hubot-scripts/issues/1113) in favor of packages for each script.
+
+Your hubot-scripts.json is empty, so you just need to remove it.
+[Fri Jun 03 2016 16:16:58 GMT-0400 (EDT)] ERROR hubot-heroku-alive included, but missing HUBOT_HEROKU_KEEPALIVE_URL. `heroku config:set HUBOT_HEROKU_KEEPALIVE_URL=$(heroku apps:info -s  | grep web-url | cut -d= -f2)`
+[Fri Jun 03 2016 16:16:59 GMT-0400 (EDT)] INFO hubot-redis-brain: Using default redis on localhost:6379

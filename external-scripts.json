@@ -1,0 +1,15 @@
+[
+  "hubot-dogeme",
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-heroku-keepalive",
+  "hubot-google-images",
+  "hubot-insults",
+  "hubot-google-translate",
+  "hubot-meme",
+  "hubot-pugme",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-rules",
+  "hubot-shipit"
+]
